@@ -1,6 +1,7 @@
 # TextCTC-SLT (COLING2025)
 Implementation of paper "Improvement in Sign Language Translation Using Text CTC Alignment"
 
+---
 ### Paper Highlights
 Unlike other sign language translation(SLT) technique which limits the Connectionist Temporal Classification (CTC) for sign langauge translation (SLT). Our work, however, fully explores CTC capacity for non-monotic alignment between sign language and spoken text for SLT.
 
