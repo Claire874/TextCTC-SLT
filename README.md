@@ -11,7 +11,7 @@ Unlike other sign language translation(SLT) technique which limits the Connectio
 - We offer a promising direction for future research by exploring the potential of **text CTC alignment for gloss-free SLT**.
 
 ## Proposed Method Overview
-![Overview](Overview.png)
+![Overview](Overview_abstract.png)
 
 
 ## Sign Embeddings
